@@ -21,7 +21,7 @@ python main.py
 When running program, user will be asked to enter number of auxiliary markers and size of Mars terrain. Program will create window with simulation of rover and Mars terrain. Rover will move randomly until it finds an auxiliary marker, and then it will use A* algorithm to search for shortest path to goal. Program will show status of rover, number of markers and title of program in window.
 
 
-## System Class Diagram
+## System's UML Class Diagram
 
 ![System Class Diagram](https://github.com/vivasrguez/qr-autonomous-navigation-test/assets/85045551/ef8bed7f-8d76-4a8d-bcce-455f3de8c717)
 
